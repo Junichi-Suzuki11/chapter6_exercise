@@ -13,3 +13,12 @@ header .headline {
   background-image: url(img/mv.jpg);
   background-position: bottom;
 }
+
+main {
+  width: 840px;
+  margin: 0 auto;
+}
+
+.blog {
+  padding: 50px 0 30px 0;
+}
